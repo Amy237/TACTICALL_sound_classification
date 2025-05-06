@@ -28,8 +28,8 @@ pip install -r requirements.txt
 ### Installing
 
 Clone or download this repository:
-git clone https://github.com/Amy237/home_sound_classification.git
-cd home_sound_classification
+git clone https://github.com/Amy237/TACTICALL_sound_classification.git
+cd TACTICALL_sound_classification
 
 Prepare your audio datasets:
 Place your training .wav files into train_data/
