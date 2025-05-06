@@ -1,0 +1,7 @@
+numpy>=1.19
+tensorflow>=2.8,<2.13
+tensorflow-hub>=0.12
+librosa>=0.8
+scikit-learn>=0.24
+pydub>=0.25
+
